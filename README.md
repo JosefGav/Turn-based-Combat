@@ -37,6 +37,26 @@ Due to limitations of the IDE:
    - When it says **“Enemies Turn”**, sit tight — the enemy team is acting.
 
 ---
+## 🧠 Technical Highlights
+
+- **Object-Oriented Programming (OOP):**  
+  The game was designed using OOP principles. Each game entity (e.g., characters, tiles, and structures) is represented as a class, with encapsulated properties and behaviors. This allowed for scalable code organization and made it easier to manage game state, actions, and interactions.
+
+- **Pathfinding Algorithm:**  
+  Players and enemies use **pathfinding algorithm** to determine the shortest path across the game map, ensuring that characters move within legal bounds, avoid obstacles, and follow strategic paths.
+
+- **Turn-Based Logic:**  
+  The game enforces a turn-based structure where each unit gets one move and one attack per round. Game flow is controlled using a state machine that switches between player turns and enemy turns.
+
+- **Real-Time UI Feedback:**  
+  Player stats (health, attack, etc.) are accessible in-game by hovering and holding the **`i`** key. This interactivity provides a smoother user experience without cluttering the screen.
+
+- **Single-File Design (Due to IDE limitations):**  
+  Although the entire project is contained in one file, it’s structured in a modular way internally using functions and classes.
+
+- **External Image Loading:**  
+  Sprites and visuals are pulled directly from online sources at runtime, due to limitations of the CMU IDE.
+---
 
 ## 🖥️ Running the File Locally
 
