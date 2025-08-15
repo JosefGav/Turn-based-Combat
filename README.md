@@ -3,7 +3,7 @@ As a requirement for my **Grade 10 Computer Science course**, this game was deve
 Due to limitations of the IDE:
 - The entire game is written in **a single file**.
 - All images are pulled from the internet at runtime — if they're removed from the source, the game may fail to load properly.
-- You can try the game here:  
+- You can try the game here (fullscreen button in top right corner):  
   🔗 [Play the Game](https://academy.cs.cmu.edu/sharing/cyanCow5780)  
   ⚠️ *Note: This link may not always function due to external image dependencies.*
 
