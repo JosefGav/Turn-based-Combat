@@ -1,8 +1,11 @@
-As a requirement for my grade 10 computer science course, this game was developed using the CMU online graphics IDE.  
+As a requirement for my **Grade 10 Computer Science course**, this game was developed using the [CMU Academy Online Graphics IDE](https://academy.cs.cmu.edu/).  
 
-Due to the limitations of this IDE, all contents of the project are contained in one file, and any referenced images are pulled from the internet whenever they are used. 
-
-https://academy.cs.cmu.edu/sharing/cyanCow5780 < -- this link may not always function due to the limitations of the IDE (Files being removed from the internet causing an error)
+Due to limitations of the IDE:
+- The entire game is written in **a single file**.
+- All images are pulled from the internet at runtime — if they're removed from the source, the game may fail to load properly.
+- You can try the game here:  
+  🔗 [Play the Game](https://academy.cs.cmu.edu/sharing/cyanCow5780)  
+  ⚠️ *Note: This link may not always function due to external image dependencies.*
 
 ## 🎮 How to Play
 
