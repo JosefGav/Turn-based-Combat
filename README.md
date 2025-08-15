@@ -39,7 +39,4 @@ https://academy.cs.cmu.edu/sharing/cyanCow5780 < -- this link may not always fun
 
 🚧 *Coming soon...*  
 Instructions for downloading and running the file locally (outside the CMU IDE) will be added here in a future update.
- 
 
-TO RUN FILE LOCALY:
-... coming soon ...
